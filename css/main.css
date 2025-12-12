@@ -18,10 +18,10 @@ img {
 }
 
 a {
-    color: deeppink;
+    color: mediumblue;
     text-decoration: none;
 }
 
 a:hover {
-    color: darkmagenta;
+    color: darkolivegreen;
 }
