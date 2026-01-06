@@ -13,7 +13,7 @@ body {
     background-color: white;
     text-align:center; 
     background-color:lightcyan;
-    background:url("./img/the-simpsons-logo-png_seeklogo-139134.png")
+    background-image:url("./img/the-simpsons-logo-png_seeklogo-139134.png")
 }
 
 img {
