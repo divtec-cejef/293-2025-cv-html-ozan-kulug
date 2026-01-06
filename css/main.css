@@ -10,7 +10,7 @@ body {
     font-size: 1.2rem;
     line-height: 1.4;
     color: black;
-    background-color: white;
+    background-color: lightcyan;
     text-align:center; 
     background-image:url("../img/ExtensionPhotoshop_Image.png");
     background-position: right center;
@@ -41,4 +41,11 @@ a:visited{
 li{
     list-style-type:none;
 }
-background
+h1{
+    color:blueviolet;
+    font-size:42px;
+    font-family:roboto;
+}
+h2{
+    font-family:roboto;
+}
