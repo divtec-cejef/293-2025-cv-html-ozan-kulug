@@ -11,7 +11,8 @@ body {
     line-height: 1.4;
     color: black;
     background-color: white;
-    text-align:center;   
+    text-align:center; 
+    background-color:lightcyan;
 }
 
 img {
@@ -30,6 +31,9 @@ a {
 
 a:hover {
     color: darkolivegreen;
+}
+a:visited{
+    color:blueviolet;
 }
 li{
     list-style-type:none;
