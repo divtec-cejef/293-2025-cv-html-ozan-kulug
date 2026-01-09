@@ -64,14 +64,10 @@ h2{
 p{
     text-align:center;
 }
-h2 + ul{
-    margin-left:auto;
-    margin-right:auto;
+.experience, .competences, .formation{
+    margin-left:500px;
+    margin-right:500px;
     text-align:left;
-}
-.experience{
-    margin-left: auto;
-    margin-right:auto;
 }
 .menu ul{
     list-style-type: none;
@@ -87,4 +83,7 @@ h2 + ul{
 }
 .menu a:hover{
     backdrop-filter:blur(10px)
+}
+footer{
+    padding:25px;
 }
