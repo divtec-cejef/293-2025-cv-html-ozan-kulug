@@ -56,3 +56,8 @@ h2{
     margin-right:auto;
     padding:10px;
 }
+#experiences, #formation, #competences{
+    border:2px solid black;
+    background-color:blue;
+    color:white;
+}
