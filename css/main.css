@@ -61,3 +61,30 @@ h2{
     background-color:blue;
     color:white;
 }
+p{
+    text-align:center;
+}
+h2 + ul{
+    margin-left:auto;
+    margin-right:auto;
+    text-align:left;
+}
+.experience{
+    margin-left: auto;
+    margin-right:auto;
+}
+.menu ul{
+    list-style-type: none;
+    padding:0px;
+    margin:0px;
+    background-color: rgba(255, 255, 255, 0.1);
+}
+.menu a{
+    color:black;;
+    padding:20px;
+    display:block;
+    text-align:center;
+}
+.menu a:hover{
+    backdrop-filter:blur(10px)
+}
