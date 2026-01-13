@@ -24,19 +24,20 @@ img {
     width: auto;
     
 }
-a {
+a:link {
     color: mediumblue;
     text-decoration: none;
     font-family: Merriweather, serif;
     font-weight: 400;
     font-size: 1.2rem;
 }
-a:hover {
-    color: darkolivegreen;
-}
 a:visited{
     color:blueviolet;
 }
+a:hover {
+    color: darkolivegreen;
+}
+a:
 li{
     list-style-type:none;
 }
